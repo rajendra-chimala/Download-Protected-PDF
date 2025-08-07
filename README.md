@@ -1,11 +1,8 @@
 # 📄 Download Protected PDF from Google Drive (Google Docs)
 
 
----
 
 ## ✅ Step-by-Step Guide (All Devices)
-
----
 
 ### 🖥 For Desktop (Windows, macOS, Linux)
 
