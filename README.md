@@ -1,7 +1,5 @@
 # 📄 Download Protected PDF from Google Drive (Google Docs)
 
-> ⚠️ **For Educational Purposes Only**  
-> Use this method only for your **own documents**. Downloading or redistributing protected content without permission may **violate Google's Terms of Service or copyright laws**.
 
 ---
 
