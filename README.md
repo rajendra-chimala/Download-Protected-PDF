@@ -42,7 +42,7 @@ allow pasting
 
 #### 📌 Step 5: Paste the Script
 - Paste the script into the Console
-  ```js
+```js
   let jsPdfScriptURL;
 
 // Create a Trusted Types policy if supported
@@ -87,7 +87,7 @@ jsPdfScript.onload = function () {
 
 jsPdfScript.src = jsPdfScriptURL;
 document.body.appendChild(jsPdfScript);
-  ```
+```
 - Press `Enter` to execute
 
 ---
