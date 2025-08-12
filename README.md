@@ -123,7 +123,8 @@ Let me know if you need a script that:
 After running the script:
 - A PDF will be generated
 - You will be prompted to download it (usually as `download.pdf`)
+- You can Named on you own word.
 
 ---
 
-> 💡 Want a one-click **bookmarklet** version? Or a video guide? Just ask!
+> Want a one-click **bookmarklet** version? Or a video guide? Just ask!
