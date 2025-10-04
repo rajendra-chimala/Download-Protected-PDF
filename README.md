@@ -124,4 +124,5 @@ After running the script:
 - A PDF will be generated
 - You will be prompted to download it (usually as `download.pdf`)
 - You can Named on you own word.
+- Now It is ready to use.
 ---
